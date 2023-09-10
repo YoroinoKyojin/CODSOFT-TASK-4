@@ -31,3 +31,5 @@ int main()
     std::cout<<count;//we have got our word count
     return 0;
 }
+
+#Sample.txt IS THE FILE FROM WHERE WE READ THE GIVEN LINE AND CODE ACCORDINGLY
